@@ -1,6 +1,6 @@
 # Watcher of Friends Online
 
-[TODO. There will be project description]
+Script to find friends who is online vk.
 
 # How to Install
 
@@ -11,6 +11,17 @@ pip install -r requirements.txt # alternatively try pip3
 ```
 
 Remember, it is recommended to use [virtualenv/venv](https://devman.org/encyclopedia/pip/pip_virtualenv/) for better isolation.
+
+# Quick Start
+
+```bash
+python vk_online.py
+Введите логин: your_login
+Введите пароль: your_password
+
+Иван Иванов
+Петр Петров
+```
 
 # Project Goals
 
